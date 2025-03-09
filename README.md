@@ -43,7 +43,7 @@ Make sure you have the following installed:
 |--------|-----------------------------|
 | POST   | Create a new task           |
 | GET    | Retrieve the latest 5 tasks |
-| PATCH  | Mark a task as completed    |
+| PUT    | Mark a task as completed    |
 
 ## Cleanup
 To stop and remove all containers:
